@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Background-Toggler-React/static/css/main.940dc1bc.css",
+    "main.js": "/Background-Toggler-React/static/js/main.517fdf95.js",
+    "static/media/javiera.jpeg": "/Background-Toggler-React/static/media/javiera.294532cb56c67f3d18ef.jpeg",
+    "index.html": "/Background-Toggler-React/index.html",
+    "main.940dc1bc.css.map": "/Background-Toggler-React/static/css/main.940dc1bc.css.map",
+    "main.517fdf95.js.map": "/Background-Toggler-React/static/js/main.517fdf95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.940dc1bc.css",
+    "static/js/main.517fdf95.js"
+  ]
+}
