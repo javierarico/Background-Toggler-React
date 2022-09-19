@@ -242,7 +242,7 @@ class App extends React.Component {
         firstName: 'Javiera',
         lastName: 'Rico',
       },
-      date: 'Sep 16, 2022',
+      date: this.showDate(new Date()),
     }
     const techs = ['HTML', 'CSS', 'JavaScript']
     const date = new Date()
